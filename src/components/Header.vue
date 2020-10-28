@@ -55,7 +55,7 @@ export default {
 }
 
 .navbar_items ul li{
-	margin: 0 10px;
+	margin: 0 30px;
 }
 
 .navbar_items ul li a{

@@ -39,6 +39,13 @@ export default {
 	text-transform: uppercase;
 	line-height: 38px;
 	margin-bottom: 35px;
+	font-size: 40px;
+	text-shadow: 0 0 10px #000, 0 0 5px#001aff;
+}
+
+.banner_content p{
+	font-size: 20px;
+	text-shadow: 0 0 10px #000, 0 0 5px #001aff;
 }
 
 
@@ -55,7 +62,7 @@ export default {
 
 	.banner_image .banner_content h1{
 		margin-top: 23px;
-		width: 97%;
+		width: 92%;
 	}
 
 
