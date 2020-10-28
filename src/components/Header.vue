@@ -60,6 +60,7 @@ export default {
 
 .navbar_items ul li a{
 	text-transform: uppercase;
+	text-shadow: 0 0 5px #000, 0 0 5px#000;
 	color: #fff;
 	padding: 10px;
 }
