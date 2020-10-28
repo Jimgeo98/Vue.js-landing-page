@@ -1,8 +1,8 @@
 <template>
     <div class="banner_image">
 		<div class="banner_content">
-			<h1>Only I can change my life.<br/><span>No one can do it for me.</span></h1>
-			<p>You only live once, but if you do it right, once is enough.</p>
+			<h1 class="animate__animated animate__bounceInLeft">Only I can change my life.<br/><span>No one can do it for me.</span></h1>
+			<p class="animate__animated animate__bounceInRight">You only live once, but if you do it right, once is enough.</p>
 		</div>
 	</div>
 </template>
