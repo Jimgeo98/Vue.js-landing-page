@@ -1,7 +1,6 @@
 <template>
 
-  <div id="content">
-
+  <section id="content">
     <Header />
     <Banner />
     <About />
@@ -9,9 +8,8 @@
     <Team />
     <Footer />
     <Arrow />
+  </section>
 
-  </div>
-    
 </template>
 
 <script>
