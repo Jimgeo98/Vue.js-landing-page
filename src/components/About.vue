@@ -39,9 +39,6 @@ export default {
 
 /* About */
 
-.us{
-	height: 50rem;
-}
 
 .us .about{
     text-align: center;
