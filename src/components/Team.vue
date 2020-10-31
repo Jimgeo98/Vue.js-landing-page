@@ -15,11 +15,11 @@
 			</div>
 
 			<div class="team2" id="team">
-				<div class="team_members" data-name="Michael Rippon"><img v-bind:src="require('../assets/team3.jpg')" alt="Team_Images" />
+				<div class="team_members" data-name="Michael Rippon"><img v-bind:src="require('../assets/team4.jpg')" alt="Team_Images" />
 				</div>
-				<div class="team_members" data-name="Meg Lanning"><img v-bind:src="require('../assets/team4.jpg')" alt="Team_Images" />
+				<div class="team_members" data-name="Meg Lanning"><img v-bind:src="require('../assets/team5.jpg')" alt="Team_Images" />
 				</div>
-				<div class="team_members" data-name="Sophie Devine"><img v-bind:src="require('../assets/team4.jpg')" alt="Team_Images" />
+				<div class="team_members" data-name="Sophie Devine"><img v-bind:src="require('../assets/team6.jpg')" alt="Team_Images" />
 				</div>
 			</div>
 
@@ -84,6 +84,7 @@ h1.title{
 	width: 100%;
 	height: auto;
 	transition: all 0.5s ease;
+	border-radius: 15px;
 }
 
 .ourteam_wrapper .team_members:hover img{
