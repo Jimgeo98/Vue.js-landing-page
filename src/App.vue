@@ -6,6 +6,7 @@
     <About />
     <Services />
     <Team />
+    <Email />
     <Footer />
     <Arrow />
   </section>
@@ -20,6 +21,7 @@ import Services from './components/Services'
 import Team from './components/Team'
 import Footer from './components/Footer'
 import Arrow from './components/Arrow'
+import Email from './components/Email'
 
 
 export default {
@@ -30,6 +32,7 @@ export default {
     About,
     Services,
     Team,
+    Email,
     Footer,
     Arrow
   }

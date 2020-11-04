@@ -7,7 +7,8 @@
 				<ul>
 					<li><a href="#about">about</a></li>
 					<li><a href="#services">services</a></li>
-					<li><a href="#ourteam">our team</a></li>
+					<li><a href="#ourteam">team</a></li>
+					<li><a href="#contact">contact</a></li>
 				</ul>
 			</div>
 		</div>
@@ -51,7 +52,7 @@ export default {
 }
 
 .navbar_items:hover{
-	transform: scale(1.1);
+	transform: scale(1.01);
 }
 
 .navbar_items ul li{
@@ -88,7 +89,7 @@ export default {
 	}
 
 	.navbar_items ul li{
-		margin-top: 45px;
+		margin-top: 40px;
 		padding: 10px;
 	}
 

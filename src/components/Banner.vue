@@ -75,7 +75,7 @@ export default {
 @media (max-width: 850px){
 
 	.banner_image .banner_content h1{
-		margin-top: 60px;
+		margin-top: 100px;
 		width: 95%;
    }
 

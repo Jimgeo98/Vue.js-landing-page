@@ -39,7 +39,7 @@ export default {
 @media (max-width: 720px){
 
 	.footer h4{
-		font-size: 12px;
+		font-size: 9px;
 	}
 
 }
