@@ -40,9 +40,8 @@ export default {
 .mail{
     display: flex;
     justify-content: space-around;
-    flex-wrap: wrap;
     height: 15rem;
-    
+    flex-wrap: wrap;
 }
 
 .mail .mess{
@@ -87,14 +86,15 @@ export default {
         margin: 0;
     }
 
+    .mail .arr{
+        display: none;
+    }
+
     .mail .info{
         color: #fb2274;
         margin-top: 5px;
     }
 
-    .mail .arr{
-        display: none;
-    }
 }
 
 </style>
